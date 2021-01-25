@@ -1,0 +1,1 @@
+words = ["bamboo", "cerulean", "mulch", "jeopardy", "attachment", "poker", "cornea", "trousers", "copper", "elmo", "ligaments", "iron", "liberty", "oatmeal", "shingles", "vein", "syzygy"]
